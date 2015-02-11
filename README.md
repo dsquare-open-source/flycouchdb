@@ -15,7 +15,7 @@ Appreciations go out to:
 * [Roberto Barchino Garrido](https://github.com/fisoide)
 
 ## Sponsored
-This project is sponsored by [DSQuare N.V](http://dsquare.be)
+This project is sponsored by [D square N.V.](http://dsquare.be)
 
 
 ## License
